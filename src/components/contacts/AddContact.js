@@ -94,7 +94,7 @@ class AddContact extends Component {
                                    />
                                         {/* For Email */}
                                         <TextInputGroup
-                                    label ="email"
+                                    label ="Email"
                                     name ="email"
                                     placeholder="Enter Email"
                                     type= "email"
